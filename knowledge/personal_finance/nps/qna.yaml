@@ -1,6 +1,6 @@
 ---
 created_by: Shweta Vikas
-version: 1
+version: 3
 domain: personal finance India
 seed_examples:
   - answer: |
@@ -14,6 +14,12 @@ seed_examples:
   - answer: Pension Fund Regulatory and Development Authority (PFRDA).
     question: Which organization regulates it?
   - answer: There is no tax benefit on investment towards Tier II.
+    question: There are any tax benefit on investment towards Tier II?
+  - answer: |
+       Any individual who is a subscriber of NPS can claim tax benefit for Tier-I account
+       under Sec 80 CCD (1) within the overall ceiling of ₹1.5 lakhs under Sec 80 C of Income 
+       Tax Act. 1961.[12] An additional deduction for investment up to ₹50,000 in NPS (Tier I account)
+       is available exclusively to NPS subscribers under subsection 80CCD
     question: There are any tax benefit on investment towards Tier II?
   - answer: |
       National Pension System Trust (NPS Trust) was established by PFRDA as per the provisions
