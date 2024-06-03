@@ -21,9 +21,9 @@ seed_examples:
        is available exclusively to NPS subscribers under subsection 80CCD
     question: There are any tax benefit on investment towards Tier II?
   - answer: |
-      National Pension System Trust (NPS Trust) was established by PFRDA as per the provisions
-      of the Indian Trusts Act of 1882 to take care of the assets and funds under this scheme for
-      the best interest of the subscriber.
+       National Pension System Trust (NPS Trust) was established by PFRDA as per the provisions
+       of the Indian Trusts Act of 1882 to take care of the assets and funds under this scheme for
+       the best interest of the subscriber.
     question: When was nps established in India?
 task_description: To increase knowledge about nps-account tax queries
 document:
