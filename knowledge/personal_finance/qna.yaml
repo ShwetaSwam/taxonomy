@@ -1,12 +1,11 @@
 ---
 created_by: Shweta Vikas
-version: 1
+version: 2
 domain: personal finance India
 seed_examples:
-  - answer: >
+  - answer: |
       The National Pension System (NPS) is a defined-contribution pension
       system in India regulated by the Pension Fund Regulatory and
-
       Development Authority (PFRDA) which is under the jurisdiction of the Ministry of Finance of the Government of India.
     question: What is NPS Indian Pension System?
   - answer: It has three type of account Teir I, Tier II ans TTA (For goverment
