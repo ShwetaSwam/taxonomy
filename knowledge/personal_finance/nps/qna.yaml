@@ -1,7 +1,7 @@
 ---
 created_by: Shweta Vikas
 version: 2
-domain: personal finance India
+domain: National Pension System India
 seed_examples:
   - answer: |
       The National Pension System (NPS) is a defined-contribution pension system in India
@@ -26,7 +26,7 @@ seed_examples:
       of the Indian Trusts Act of 1882 to take care of the assets and funds under this scheme for
       the best interest of the subscriber.
     question: When was nps established in India?
-task_description: To increase knowledge about nps-account tax queries
+task_description: National Pension System India
 document:
   repo: https://github.com/ShwetaSwam/instructlab_pf_knowledge.git
   commit: 36a826f823c4b635b2f49d44f8ec744400725355
